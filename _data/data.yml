@@ -97,7 +97,7 @@ education:
         - Bullet point
 
 experiences:
-  title: Experiences
+  title: Experience
   info:
   - role: Lead Developer
     time: 2015 - Present
@@ -179,29 +179,13 @@ certifications:
       Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-  title: Projects
+  title: TOTP Authenticator
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    A PWA Authenticator app. One Time Password Generator, 2FA, QR Code import/export, installable web application
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: TOTP Authenticator
+    link: "https://totp.morganism.dev/"
+    tagline: "An installable Progressive Web Application implementing an RFC 6238 compliant HOTP (HMAC-based OTP) algorithm."
 
 oss:
   title: OSS Contributions
@@ -283,4 +267,4 @@ skills:
     level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Copyleft <i class="fas fa-heart"></i> all rights reversed <a href="https://git.morganism.dev/" target="_blank" rel="nofollow">morganism</a>
